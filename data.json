@@ -1,0 +1,56 @@
+{"details":{
+  "image":"profile.png",
+  "name":"Bhagyasri",
+  "phoneno":"9888888888",
+  "email":"perabhagyasri@gmail.com",
+  "address":"H.no:8-90balaji streetkondapallipincode:521228"
+},
+"Career":{
+  "info":"To achieve high career growth through a continuous learning process, keep myself dynamic, visionary and competitive with the changing scenario of the world and to contribute for the growth of organization"
+},
+"education":[
+  {
+  "qualification":"B-Tech",
+  "institute":"MIC College of Technology",
+  "year":"2016-2020",
+  "percentage":"89%"
+},
+{
+  "qualification":"Intermediate",
+  "institute":"Sri Chaitanya Junior College",
+  "year":"2014-2016",
+  "percentage":"99%"
+},
+  {
+    "qualification":"SSC",
+    "institute":"Sri Chaitanya Techno School",
+    "year":"2014",
+    "percentage":"99%"
+  }
+],
+"skills":[{
+  "title":"Programming Languages",
+  "info":["C,C++,java,Python,R"]
+
+},
+{
+"title":"Databases",
+"info":["Oracle,Sql,MySql,Tinydab"]
+},
+{
+  "title":"Operating systems",
+  "info":["Windows,Linux,Mac,Dos"]
+}
+],
+"acheivements":[
+  {
+    "title":"Participation",
+    "info":["Ppt","Poster","Working Models"]
+  },
+  {
+    "title":"Winning",
+    "info":["Won 1st in hackathon,1st in poster"]
+  }
+]
+
+}
